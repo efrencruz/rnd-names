@@ -1,0 +1,29 @@
+{
+  "name": "rnd-names",
+  "version": "1.1.0",
+  "description": "random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "Efren Cruz",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efrencruz/rnd-names.git"
+  },
+  "bugs": {
+    "url": "https://github.com/efrencruz/rnd-names/issues"
+  },
+  "homepage": "https://github.com/efrencruz/rnd-names#readme"
+}
