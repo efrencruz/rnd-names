@@ -15,7 +15,7 @@
   "author": "Efren Cruz",
   "license": "MIT",
   "bin": {
-    "random-msg": "bin/global.js"
+    "random-name": "bin/global.js"
   },
   "preferGlobal": true,
   "repository": {
